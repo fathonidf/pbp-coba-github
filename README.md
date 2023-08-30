@@ -5,3 +5,5 @@ NPM     : 2206824161
 Kelas   : PBP E
 
 Hobi    : Piano
+
+Jurusan : Ilmu Komputer
